@@ -1,16 +1,18 @@
-### Hi there 👋
+# <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4a76fc&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Hi+there%2C+I'am+Hilal">
 
-<!--
-**mshelovee/mshelovee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="30%" align="right" src="https://lanyard.kyrie25.me/api/660551819646337027?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness">
 
-Here are some ideas to get you started:
+<b> Experience <b>
+<samp>
+- Python
+- C#
+- Discord.js
+<samp>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm Listening Right Now
+
+<img width="40%" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=31phjmcjluxu5zd4gubfspa2jaqe&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
+<img  align="right" width="40%" src="https://count.getloli.com/get/@:mshelovee?theme=asoul"> 
+
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=mshelovee&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
+<img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=mshelovee&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
