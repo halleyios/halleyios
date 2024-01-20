@@ -3,7 +3,7 @@
  <br><br>
   <samp>
     🏡 = m <br>  
-    Hi there, I'm Hilos <br>
+    Hi there, I'm Halley <br>
     I am an informatics student <br>
     <br><img src="https://count.getloli.com/get/@:mshelovee?theme=asoul">
     <br><br> For Everything :point_right: <a href="https://discord.com/users/660551819646337027">My Discord</a>
