@@ -5,7 +5,7 @@
     Hi there, I'm Halley <br>
     I am an informatics student <br>
     <br><img src="https://count.getloli.com/get/@:mshelovee?theme=asoul">
-    <br><br> For Everything :point_right: <a href="https://discord.com/users/660551819646337027">My Discord</a>
+    <br><br> 
   </samp>
 </p>
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=mshelovee&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
