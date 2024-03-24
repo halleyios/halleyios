@@ -11,5 +11,5 @@
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=mshelovee&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
 <img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=mshelovee&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
 
-<a href="https://ertu.xyz" target="_blank"><img src="https://cdn.discordapp.com/attachments/1109020508340629555/1205902353644130314/mshelovee.png?ex=66083395&is=65f5be95&hm=ac41104ce623fe0cda5b036950b889f04b781a9feadd88611e1fd2e8f40f788e&" alt="MasterHead" style="max-width: 100%;"></a>
+<a href="https://ertu.xyz" target="_blank"><img src="https://img001.prntscr.com/file/img001/Vj0p878zS5u82lsSPdgUNw.png" alt="MasterHead" style="max-width: 100%;"></a>
 
