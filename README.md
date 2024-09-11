@@ -7,6 +7,7 @@
       <br><img src="https://count.getloli.com/get/@:mshelovee?theme=asoul">
       <br><br> 
     </samp>
-  </p>
+<img align="left" width="90%" src="https://github-readme-stats.vercel.app/api?username=jrhilaldesouza&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
+<img align="left" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=jrhilaldesouza&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
   
-  <a href="https://ertu.xyz" target="_blank"><img src="https://img001.prntscr.com/file/img001/oiHzKNPjSkeurR83BsBoCA.png" alt="MasterHead" style="max-width: 100%;"></a>
+<a href="https://ertu.xyz" target="_blank"><img src="https://img001.prntscr.com/file/img001/oiHzKNPjSkeurR83BsBoCA.png" alt="MasterHead" style="max-width: 100%;"></a>
