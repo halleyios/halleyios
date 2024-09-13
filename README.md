@@ -7,7 +7,15 @@
       <br><img src="https://count.getloli.com/get/@:mshelovee?theme=asoul">
       <br><br> 
     </samp>
-<img align="left" width="60%" src="https://github-readme-stats.vercel.app/api?username=jrhilaldesouza&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
-<img align="left" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=jrhilaldesouza&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
-  
-<a href="https://ertu.xyz" target="_blank"><img src="https://img001.prntscr.com/file/img001/oiHzKNPjSkeurR83BsBoCA.png" alt="MasterHead" style="max-width: 100%;"></a>
+</p>
+
+<p align="center">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=halleyios&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
+    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=halleyios&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
+</p>
+
+<p align="center">
+    <a href="https://ertu.xyz" target="_blank">
+        <img src="https://img001.prntscr.com/file/img001/oiHzKNPjSkeurR83BsBoCA.png" alt="MasterHead" style="max-width: 100%;">
+    </a>
+</p>
