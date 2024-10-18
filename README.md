@@ -4,7 +4,9 @@
     <samp>
       Hi there, I'm Halley <br>
       I am an informatics student <br>
-      <!--<br><img src="https://count.getloli.com/get/@:mshelovee?theme=asoul-->
+        <div align="center">
+   <img width="15%" src="https://komarev.com/ghpvc/?username=halleyios&color=070000">
+      <!--<br><img src="https://count.getloli.com/get/@:mshelovee?theme=asoul"-->
       <br><br> 
     </samp>
 </p>
