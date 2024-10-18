@@ -16,6 +16,6 @@
 
 <p align="center">
     <a href="https://ertu.xyz" target="_blank">
-        <img src="https://img001.prntscr.com/file/img001/oiHzKNPjSkeurR83BsBoCA.png" alt="MasterHead" style="max-width: 100%;">
+        <img src="https://r.resimlink.com/5HZRan.jpg" alt="halleyios" style="max-width: 100%;">
     </a>
 </p>
