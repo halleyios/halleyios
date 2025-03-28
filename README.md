@@ -16,4 +16,4 @@
 </p>
 </p>
 
-<img align="center" src="https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/03/outer-banks-season-3-episode-5-kiara-jj-social-featured.jpg" alt="background">
+<!--<img widht="100%" align="center" src="" alt="background">-->
