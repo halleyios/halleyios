@@ -3,10 +3,9 @@
    <br><br>
     <samp>
       Hi there, I'm Halley <br>
-      I am an informatics student <br>
         <div align="center">
-   <img width="15%" src="https://komarev.com/ghpvc/?username=halleyios&color=070000">
-      <!--<br><img src="https://count.getloli.com/get/@:mshelovee?theme=asoul"-->
+   <!--<img width="15%" src="https://komarev.com/ghpvc/?username=halleyios&color=070000">-->
+      <br><img src="https://count.getloli.com/get/@:mshelovee?theme=asoul"
       <br><br> 
     </samp>
 </p>
@@ -15,9 +14,4 @@
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=halleyios&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
     <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=halleyios&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
 </p>
-
-<p align="center">
-    <a href="https://ertu.xyz" target="_blank">
-        <img src="https://r.resimlink.com/5HZRan.jpg" alt="halleyios" style="max-width: 100%;">
-    </a>
 </p>
