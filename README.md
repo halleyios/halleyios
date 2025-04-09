@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=halleyios&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
-    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=halleyios&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=halleyios&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false">
+    <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halleyios&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
 </p>
 </p>
 
