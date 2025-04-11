@@ -16,6 +16,8 @@
 </p>
 </p>
 
+<img width="100%" align="center" src="https://mersinhabermerkezicom.teimg.com/crop/1280x720/mersinhabermerkezi-com/images/haberler/2023/10/rapci-stabilin-konser-takvimi-1697976730.webp" alt="background">
+
 
 
 <!--<img widht="100%" align="center" src="" alt="background">-->
