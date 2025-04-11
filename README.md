@@ -16,7 +16,7 @@
 </p>
 </p>
 
-<img width="100%" align="center" src="https://i.pinimg.com/736x/8c/b1/d5/8cb1d5b86b7862f2ae5e1656181871b5.jpg" alt="background">
+<img width="100%" align="center" src="https://i.imgur.com/sTI6EHz.jpeg" alt="banner">
 
 
 
