@@ -7,6 +7,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hilal!;">
 </h1>
 </samp>
+<div align="center">
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=halleyios&theme=dark&hide_border=true&stroke=ffffff&fire=ffffff&currStreakNum=DDDDDD&currStreakLabel=ffffff&ring=ffffff&background=DD272700">
+</div>
 
 
 
